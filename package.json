@@ -1,0 +1,23 @@
+{
+  "name": "mock_json_ser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nilesh7007/mock_json_ser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nilesh7007/mock_json_ser/issues"
+  },
+  "homepage": "https://github.com/Nilesh7007/mock_json_ser#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
